@@ -1,0 +1,23 @@
+#header{
+    width:100%;
+    height: 50px;
+    background-color: red;
+    color:black;
+    margin-top: 0px;
+}
+#body{
+    width:100%;
+    height: 480px;
+}
+#footer{
+    background-color:red;
+    width:100%;
+  
+    ul li{
+        width: 20%;
+        height: 50px;
+        line-height: 50px;
+        margin-left:5px;
+        background: red;
+        color: white;
+    }}
